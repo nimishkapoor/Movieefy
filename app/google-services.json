@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601438088903",
+    "firebase_url": "https://movify-16470.firebaseio.com",
+    "project_id": "movify-16470",
+    "storage_bucket": "movify-16470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601438088903:android:26d72312f84a20b30458e2",
+        "android_client_info": {
+          "package_name": "com.example.android.popularmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601438088903-cugsqq2nl4kc2881o29kt2koifvpgb5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEE888ppZgqpU23u3UheITL7z2zFUtSeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601438088903-cugsqq2nl4kc2881o29kt2koifvpgb5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
